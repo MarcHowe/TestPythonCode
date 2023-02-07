@@ -35,3 +35,8 @@ print(floor)
 mod1 = 8 % 3
 print(mod1)
 
+#Priority of implicit conversion/casting
+#Bool
+#Integer
+#Float
+#Complex
